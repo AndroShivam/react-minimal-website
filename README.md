@@ -22,3 +22,4 @@
 
 ## Credits 
 * [Undraw](https://undraw.co/) - Open-source illustrations for any idea you can imagine and create.
+* [Original Design](https://www.pinterest.com/pin/501025527299073492/sent/?invite_code=33761d13caaf4f5a963015196fd8d226&sender=781374741507303357&sfo=1) - Credits to the Artist of the Ui Design.
