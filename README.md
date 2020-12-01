@@ -12,6 +12,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
+# Check it out
+## ![Hosted Version](https://minimalreact.netlify.app/)
+
 # ScreenShots
 ## Desktop
 ![screenshot](https://user-images.githubusercontent.com/52043419/100610261-6377a200-3335-11eb-8420-98a2bf93cf79.png)
