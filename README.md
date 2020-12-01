@@ -13,7 +13,7 @@
 
 <!-- ABOUT THE PROJECT -->
 # Check it out
-## ![Hosted Version](https://minimalreact.netlify.app/)
+## [Hosted Version](https://minimalreact.netlify.app/)
 
 # ScreenShots
 ## Desktop
